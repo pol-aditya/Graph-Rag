@@ -1,3 +1,10 @@
+# from neo4j_graph import get_graph_context
+
+# graph_data[entity] = get_graph_context(entity)
+
+
+# context += f"\n\nGraph Knowledge:\n{graph_data}"
+
 import streamlit as st
 import os
 from pathlib import Path
