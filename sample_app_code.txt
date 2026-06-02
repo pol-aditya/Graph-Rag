@@ -1,0 +1,9 @@
+<uses-permission android:name="android.permission.CAMERA"/>
+
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+The app uses camera for profile photos.
+
+The app tracks user location for nearby recommendations.
+
+Firebase Analytics SDK enabled.
