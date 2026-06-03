@@ -7,3 +7,4 @@ openai
 python-dotenv
 neo4j
 torch
+protobuf==3.20.3
